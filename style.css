@@ -83,7 +83,7 @@ body {
 }
 
 .arrow {
-  bottom: 6%;
+  bottom: 10%;
   right: 45%;
   width: 100px;
   height: 100px;
@@ -326,6 +326,7 @@ body {
     width: 100%;
   }
 }
+
 
 
 
