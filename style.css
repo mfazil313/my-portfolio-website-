@@ -83,13 +83,13 @@ body {
 }
 
 .arrow {
-  bottom: 18%;
-  right: 12%;
+  bottom: 6%;
+  right: 45%;
   width: 100px;
   height: 100px;
   border-right: 4px solid #b6ff00;
   border-bottom: 4px solid #b6ff00;
-  transform: rotate(-45deg);
+  transform: rotate(45deg);
 }
 
 /* INTRO */
@@ -326,4 +326,5 @@ body {
     width: 100%;
   }
 }
+
 
